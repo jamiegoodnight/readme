@@ -2,6 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-lightgrey.svg?cacheSeconds=2592000" />
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg">
+  <img alt="License" src="https://img.shields.io/badge/social-Follow-lightgrey.svg">
 </p>
 
 ![Use My Tech Stuff](https://i.imgur.com/Oyoy2ED.png)
