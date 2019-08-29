@@ -2,7 +2,7 @@
 <!-- <img alt="Use My Tech Stuff" src="https://i.imgur.com/uyDqF9H.png"> -->
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-ff69b4.svg?cacheSeconds=2592000" />
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-yellow.svg">
   <img alt="License" src="https://img.shields.io/github/followers/jamiegoodnight?label=Follow&style=social">
 </p>
 
