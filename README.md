@@ -6,7 +6,7 @@
   <img alt="License" src="https://img.shields.io/github/followers/jamiegoodnight?label=Follow&style=social">
 </p>
 
-![Use My Tech Stuff](https://i.imgur.com/cmPrZFY.png)
+<!-- ![Use My Tech Stuff](https://i.imgur.com/cmPrZFY.png) -->
 
 > Node server with Express framework for Use My Tech Stuff—an app for sharing and lending tech!
 
