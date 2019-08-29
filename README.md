@@ -144,7 +144,7 @@ Parameters:
 
 Method used: **[POST]** `/api/tech/`
 
-On Success: Adds a new tab to the database.
+On Success: Adds a new piece of tech to the database.
 
 Parameters:
 
@@ -165,7 +165,7 @@ Parameters:
 
 Method used: **[PUT]** `api/tech/:id/`
 
-On Success: Returns updated array.
+On Success: Updates a specific piece of tech in the database.
 
 Parameters:
 
@@ -185,7 +185,7 @@ Parameters:
 
 Method used: **[POST]** `api/tech/:id/`
 
-On Success: Returns updated array.
+On Success: Adds a new comment to a specific piece of tech in the database.
 
 Parameters:
 
@@ -203,28 +203,13 @@ Parameters:
 
 Method used: **[DELETE]** `/api/tech/:id`
 
-On Success: Deletes the tech from the database.
+On Success: Deletes a specific piece of tech from the database.
 
 Parameters:
 
 | Name          | Type       | Required | Notes                             |
 | ------------- | ---------- | -------- | --------------------------------- |
 | Authorization | **Header** | yes      | Acquired from a successful login. |
-
----
-
-### Upload Image
-
-Method used: **[POST]** `/api/tech/img/upload`
-
-On Success: Deletes the tech from the database.
-
-Parameters:
-
-| Name          | Type       | Required | Notes                             |
-| ------------- | ---------- | -------- | --------------------------------- |
-| Authorization | **Header** | yes      | Acquired from a successful login. |
-| image         | form       | yes      | An image for a user or tech.      |
 
 ---
 
