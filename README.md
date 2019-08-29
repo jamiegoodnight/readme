@@ -1,35 +1,36 @@
 <!-- <h1 align="center">Welcome to Use My Tech Stuff 👋</h1> -->
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-lightgrey.svg?cacheSeconds=2592000" />
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg">
 </p>
 
 ![Use My Tech Stuff](https://i.imgur.com/Oyoy2ED.png)
 
-> Node server with Express framework for Use My Tech Stuff—an app for tech sharing and lending!
+> Node server with Express framework for Use My Tech Stuff—an app for sharing and lending tech!
 
 ## Install
 
 ```sh
-npm install
+npm i
 ```
 
 ## Dependencies
 
 ```sh
-npm install express
-npm install sqlite3
-npm install bcryptjs
-npm install cors
-npm install helmet
-npm install jsonwebtoken
-npm install knex
-npm install knex-cleaner
-npm install pg
-npm install cross-env
-npm install dotenv
-npm install nodemon --dev
-npm install jest --dev
-npm install supertest --dev
+npm i express
+npm i sqlite3
+npm i bcryptjs
+npm i cors
+npm i helmet
+npm i jsonwebtoken
+npm i knex
+npm i knex-cleaner
+npm i pg
+npm i cross-env
+npm i dotenv
+npm i nodemon --dev
+npm i jest --dev
+npm i supertest --dev
 ```
 
 ## Author
@@ -38,7 +39,7 @@ npm install supertest --dev
 
 - Github: [@jamiegoodnight](https://github.com/jamiegoodnight)
 
-- Linkedin: [@jamiegoodnight](www.linkedin.com/in/jamie-goodnight-54319b180)
+- Linkedin: [@jamie-goodnight](www.linkedin.com/in/jamie-goodnight-54319b180)
 
 ## Show your support
 
