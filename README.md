@@ -6,7 +6,7 @@
   <img alt="License" src="https://img.shields.io/github/followers/jamiegoodnight?label=Follow&style=social">
 </p>
 
-![Use My Tech Stuff](https://i.imgur.com/JOf7EFt.png)
+![Use My Tech Stuff](https://i.imgur.com/jMhkryZ.png)
 
 > Node server with Express framework for Use My Tech Stuff—an app for sharing and lending tech!
 
@@ -16,7 +16,7 @@
 npm i
 ```
 
-## Dependencies
+## Dependencies 📦
 
 ```sh
 npm i express
@@ -37,7 +37,7 @@ npm i supertest --dev
 
 ## Author
 
-👤 **Jamie Goodnight**
+👨‍💻 **Jamie Goodnight**
 
 - Github: [@jamiegoodnight](https://github.com/jamiegoodnight)
 
@@ -62,7 +62,7 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-### User Registration
+### User Registration 👋
 
 Method used: **[POST]** `/api/auth/register/`
 
@@ -88,7 +88,7 @@ Example of what to use:
 
 ---
 
-### User Login
+### User Login 🔑
 
 Method used: **[POST]** `/api/auth/login/`
 
@@ -113,7 +113,7 @@ Example of what to use:
 
 ---
 
-### Get List of all Tech
+### Get List of all Tech 🔒
 
 Method used: **[GET]** `/api/tech/`
 
@@ -127,7 +127,7 @@ Parameters:
 
 ---
 
-### Get a specific piece of Tech.
+### Get a specific piece of Tech. 🔒
 
 Method used: **[GET]** `/api/tech/:id/`
 
@@ -141,7 +141,7 @@ Parameters:
 
 ---
 
-### Post Tech
+### Post Tech 🔒
 
 Method used: **[POST]** `/api/tech/`
 
@@ -162,7 +162,7 @@ Parameters:
 
 ---
 
-### Update Tech
+### Update Tech🔒
 
 Method used: **[PUT]** `api/tech/:id/`
 
@@ -182,7 +182,7 @@ Parameters:
 
 ---
 
-### Post Comment
+### Post Comment 🔒
 
 Method used: **[POST]** `api/tech/:id/`
 
@@ -200,7 +200,7 @@ Parameters:
 
 ---
 
-### Delete Tech
+### Delete Tech 🔒
 
 Method used: **[DELETE]** `/api/tech/:id`
 
@@ -214,7 +214,7 @@ Parameters:
 
 ---
 
-### Get Users
+### Get Users 👥
 
 Method used: **[GET]** `/api/users/`
 
@@ -222,7 +222,7 @@ On Success: Returns an array of users.
 
 ---
 
-### Get Specific User
+### Get Specific User 👤
 
 Method used: **[GET]** `/api/users/:id/`
 
