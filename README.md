@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-lightgrey.svg?cacheSeconds=2592000" />
 </p>
 
-![Use My Tech Stuff](https://imgur.com/Oyoy2ED)
+![Use My Tech Stuff](https://i.imgur.com/Oyoy2ED.png)
 
 > Node server with Express framework for Use My Tech Stuff—an app for tech sharing and lending!
 
