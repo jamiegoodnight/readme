@@ -40,7 +40,7 @@ npm i supertest --dev
 
 - Github: [@jamiegoodnight](https://github.com/jamiegoodnight)
 
-- Linkedin: [@jamie-goodnight](www.linkedin.com/in/jamie-goodnight-54319b180)
+- Linkedin: [jamie-goodnight](www.linkedin.com/in/jamie-goodnight-54319b180)
 
 ## Show your support
 
