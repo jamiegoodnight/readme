@@ -14,6 +14,7 @@
 
 ```sh
 npm i
+
 ```
 
 ## Dependencies 📦
